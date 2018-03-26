@@ -1,4 +1,4 @@
-# Entry 1: 
+# Entry 1: Learning SASS
 
 ## Intro
 After looking at the list of potential topics that I can choose from, I limited it down to SASS and Artoo. SASS is basically CSS with variables and Artoo is creating robots with Ruby. But after thinking thoroughly, I chose to explore SASS, mainly because I know that CSS works with other programming languages such as HTML, Ruby, and etc., while Artoo is not something you can apply to in daily life.
