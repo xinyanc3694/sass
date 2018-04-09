@@ -226,7 +226,7 @@ And that compiles to the following:
 2. Try to make observations of the code by comparing the codes and see the differences. This way you will understand what the new topics in SASS do.
 
 ## Resources
-https://www.codecademy.com/learn/learn-sass
-https://scotch.io/tutorials/how-to-use-sass-mixins
-https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements
+1. https://www.codecademy.com/learn/learn-sass
+2. https://scotch.io/tutorials/how-to-use-sass-mixins
+3. https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Pseudo-classes_and_pseudo-elements
 
