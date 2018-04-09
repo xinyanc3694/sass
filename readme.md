@@ -3,7 +3,7 @@
 ## Table of contents
 
 + [Entry 1: Intro](entries/entry1.md)
-+ Entry 2: 
++ [Entry 2: Mixins and the & Selector](entries/entry2.md)
 + Entry 3: 
 + Entry 4: 
 + Entry 5: 
