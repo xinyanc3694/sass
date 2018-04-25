@@ -155,11 +155,11 @@ Like I mention before, I try to code something small with what I learned for the
 
 https://jsbin.com/ridulifami/edit?html,css,output
 
-This project is really simple. But I was able to put the things that I learned into this. I was trying to figure out what I can potentially do with SASS. For this project, I have refer back to my past blog posts very often. Because it was a long time ago, I forgot most of the stuff, but fortunately, I commented my code(an explanation of each line of code) and a paragraph after the code that I am confuse with to explain what it does.
+This project is really simple. But I was able to put the things that I learned into this. I was trying to figure out what I can potentially do with SASS. For this project, I have to refer back to my past blog posts very often. Because it was a long time ago, I forgot most of the stuff, but fortunately, I commented my code(an explanation of each line of code) and a paragraph after the code that I am confused with to explain what it does.
 
 ## Takeaways
 1. Always add explanations to your codes, so you will have a sense of what it does. And this way, when you come back to the code in the future, you will be able to know what it does.
-2. If you have no idea with what you want to create for the project. Try to put everything you learn all together and see what you can do with these code. This might be a starting point for you to see what you can create in your comfort zone.
+2. If you have no idea with what you want to create for the project. Try to put everything you learn all together and see what you can do with these code. This might be a starting point for you to see what you can create in your learning zone.
 
 
 
