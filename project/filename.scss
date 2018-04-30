@@ -1,0 +1,30 @@
+//variables for the border
+$icon-square-length: 400px 400px; //size of the border
+$standard-border: 4px solid black; //thickness and color of border
+//allow the container to perform a transformation
+@mixin transform($transforms) {
+	   transform: $transforms;
+}
+h1 {
+  font-family: Roboto, sans-serif; //h1 font-family
+  text-align: center; //h1 text position
+}
+
+.container-one, .container-two {
+  text-align: center; // container text position
+  font-family: 'Pacifico', cursive; //container font-family
+   &:hover{@include transform(rotatey(-180deg)); //call mixin let container rotate
+    }
+  .icon {
+  display: inline-block; // inline-level block container
+  margin: 2%; //space of the box from the edge of site
+  border: $standard-border; //calling variable standard-border
+  font-size: 32px; //word size
+    //calling variable icon-square-length
+    width: $icon-square-length; 
+  height: $icon-square-length;
+   
+  }
+ 
+}
+
