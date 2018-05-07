@@ -7,7 +7,7 @@
 + [Entry 3: Functions and Operations](entries/entry3.md)
 + [Entry 4: Sustainable SCSS](entries/entry4.md)
 + [Entry 5: Setup](entries/entry5.md)
-+ [Entry 6: ](entries/entry6.md)
++ [Entry 6: Linking Files](entries/entry6.md)
 + [Entry 7: ](entries/entry7.md)
 + [Entry 8: ](entries/entry8.md)
 + [Entry 9: ](entries/entry9.md)
