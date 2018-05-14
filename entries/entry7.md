@@ -1,4 +1,4 @@
-# Entry 7: Beginning Project (Week 1)
+# Entry 7: Beginning the Project (Week 1)
 
 This week was exciting for me. Me and my teammates are finally starting on our project. I mentioned last week that I was having struggles on deciding which project we want to work on, so we fianlly decided to work on the old website. The reason is because for the old website, we already have the layout so the only thing we have to do is fix the design, so then if we want to suddenly change our plan and make a profolio instead, we can just simply change the context. Therefore, this is the best choice.
 
