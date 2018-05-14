@@ -21,6 +21,7 @@ Our project is not finished, so some of the designs and features of the website 
 <img src="../images/gallery.jpg" width="700" height="500">
 
 [Photo credit: Vimeo]
+
 4. Change the background color.
 
 ## Takeaway(s)
