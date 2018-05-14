@@ -18,7 +18,7 @@ Our project is not finished, so some of the designs and features of the website 
 2. Reorganized the position of each chunk of context.
 3. Change the carousel into something like below, so when the mouse hovers over, a quote will pop up as the image fades: 
 
-![Gallery](../images/gallary.jpg= 500*500)
+![Gallery](../images/gallary.jpg=500*500)
 
 [Photo credit: Vimeo]
 4. Change the background color.
